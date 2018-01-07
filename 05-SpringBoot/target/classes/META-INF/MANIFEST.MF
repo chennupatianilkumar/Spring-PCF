@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 05-SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anil Kumar
+Implementation-Vendor-Id: com.egiants
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/05-SpringBoo
+ t/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
